@@ -16,6 +16,7 @@
 
 ---
 ## 📢 News
+- **[2026-05-17]** Our **[LogicPoison](https://arxiv.org/abs/2604.02954)** was selected as the **oral** presentation(499/12148)!
 - **[2026-04-04]** Our **[LogicPoison](https://arxiv.org/abs/2604.02954)** is accepted by ACL'26 Main Conference!
 - **[2026-04-03]** We release the codes of **[LogicPoison](https://github.com/Jord8061/logicPoison)** and the **[datasets](https://huggingface.co/datasets/Jord8061/datasets)**.
 ---
