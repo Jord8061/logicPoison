@@ -162,14 +162,30 @@ Please do **not** use this repository to attack real-world systems or deploy poi
 If you find this project useful, please cite our paper:
 
 ```bibtex
-@misc{xiao2026logicpoisonlogicalattacksgraph,
-      title={LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation}, 
-      author={Yilin Xiao and Jin Chen and Qinggang Zhang and Yujing Zhang and Chuang Zhou and Longhao Yang and Lingfei Ren and Xin Yang and Xiao Huang},
-      year={2026},
-      eprint={2604.02954},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2604.02954}, 
+@inproceedings{xiao-etal-2026-logicpoison,
+    title = "{L}ogic{P}oison: Logical Attacks on Graph Retrieval-Augmented Generation",
+    author = "Xiao, Yilin  and
+      Chen, Jin  and
+      Zhang, Qinggang  and
+      Zhang, Yujing  and
+      Zhou, Chuang  and
+      Yang, Longhao  and
+      Ren, Lingfei  and
+      Yang, Xin  and
+      Huang, Xiao",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.252/",
+    pages = "5575--5591",
+    ISBN = "979-8-89176-390-6"
 }
+
 ``` 
 
